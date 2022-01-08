@@ -1,3 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,500;0,600;1,400&display=swap');
+
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+.product-name {
+  font-family: Montserrat, sans-serif;
+  font-weight: 600;
+}
+
+.product-price {
+  font-family: Montserrat, sans-serif;
+  font-weight: 50;
+}
+
+.product-quantity {
+  font-family: Montserrat, sans-serif;
+  font-style: italic;
+  font-weight: 400;
+}
