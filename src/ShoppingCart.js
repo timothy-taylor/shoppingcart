@@ -1,4 +1,5 @@
 import Nav from "./components/navbar/navBar";
+import Footer from "./components/footer/footer";
 import centsToDollars from "./components/centsToDollars";
 
 const ShoppingCart = (props) => {
@@ -61,6 +62,7 @@ const ShoppingCart = (props) => {
       <main className="">
         {displayCart()}
       </main>
+      <Footer />
     </div>
   );
 };

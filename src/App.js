@@ -1,4 +1,5 @@
 import Nav from "./components/navbar/navBar";
+import Footer from "./components/footer/footer";
 import Card from "./components/productcard/productCard";
 import { productDetails } from "./productDetails";
 
@@ -21,6 +22,7 @@ function App(props) {
         ))}
         </ul>
       </main>
+      <Footer />
     </div>
   );
 }
