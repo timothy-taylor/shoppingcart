@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/odin_shoppingcart_react/static/css/main.f84f6e50.css",
+    "main.js": "/odin_shoppingcart_react/static/js/main.4d7df85e.js",
+    "static/media/spitfire2.jpeg": "/odin_shoppingcart_react/static/media/spitfire2.2744d6feedc0574f7a61.jpeg",
+    "static/media/spitfire4.jpeg": "/odin_shoppingcart_react/static/media/spitfire4.fed80ede6d0021b97dc4.jpeg",
+    "static/media/spitfire3.jpeg": "/odin_shoppingcart_react/static/media/spitfire3.df34964b079e0e76fbca.jpeg",
+    "static/media/bones3.jpeg": "/odin_shoppingcart_react/static/media/bones3.fb1fc57b08c8854c90e5.jpeg",
+    "static/media/ricta1.jpeg": "/odin_shoppingcart_react/static/media/ricta1.d86b7ed718ac16548db3.jpeg",
+    "static/media/bones2.jpeg": "/odin_shoppingcart_react/static/media/bones2.bdb20b5756a40d5470a3.jpeg",
+    "static/media/bones1.jpeg": "/odin_shoppingcart_react/static/media/bones1.e42aeb95df375ed94b62.jpeg",
+    "static/media/spitfire1.jpeg": "/odin_shoppingcart_react/static/media/spitfire1.55443bd27d93185e1e98.jpeg",
+    "static/media/ricta2.jpeg": "/odin_shoppingcart_react/static/media/ricta2.d8f28a08f0ba5bac7eee.jpeg",
+    "static/media/acid1.jpeg": "/odin_shoppingcart_react/static/media/acid1.a2351c3e1468cf6445dd.jpeg",
+    "static/media/globe1.jpeg": "/odin_shoppingcart_react/static/media/globe1.8fc0103db2a4b13e7c79.jpeg",
+    "static/media/globe2.jpeg": "/odin_shoppingcart_react/static/media/globe2.8578642149a701ccc32b.jpeg",
+    "index.html": "/odin_shoppingcart_react/index.html",
+    "main.f84f6e50.css.map": "/odin_shoppingcart_react/static/css/main.f84f6e50.css.map",
+    "main.4d7df85e.js.map": "/odin_shoppingcart_react/static/js/main.4d7df85e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f84f6e50.css",
+    "static/js/main.4d7df85e.js"
+  ]
+}
