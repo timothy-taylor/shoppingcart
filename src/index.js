@@ -1,7 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import './index.css';
 import RouteSwitch from './RouteSwitch';
+import './index.css';
 
 document.title = "The Skate Wheel Shop";
 
